@@ -1,2 +1,2 @@
-# PrepCourse-Henry
-Primer repositorio creado desde la nube (GitHub)
+este proyecto es una prueba de como crear y clonar un repositorio desde github.
+
